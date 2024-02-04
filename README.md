@@ -1,6 +1,6 @@
 # NearMe
 
-Using Location manager and MapKit - locate places, businesses near you
+Using Location manager and MapKit, Combine, to  locate places, businesses near you
 
 >
 >
